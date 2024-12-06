@@ -22,6 +22,8 @@ abstract class Main {
     }
 
     abstract val weather "warning a tornado has been repoted" {
-        ""
+        "Heavy rain" 5:70am, 7:00am
+        "windy rain" 8:00am, 9:00am
+        "Tornado" 10:00am, 12:00am
     }
 
